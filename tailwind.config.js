@@ -1,4 +1,3 @@
-
 export default {
   darkMode: 'class',
   content: ["./index.html", "./App.tsx", "./i18n.ts"],
